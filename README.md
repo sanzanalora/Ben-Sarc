@@ -46,5 +46,12 @@ The `Ben-Sarc` dataset is in `.xlsx` format. One example from the `Ben-Sarc` dat
 ## Citation
 If you use our dataset, please cite the following paper:
 ```
-citation
+@article{loraben,
+author = {Lora, Sanzana and Shahariar, G. and Nazmin, Tamanna and Rahman, Noor and Rahman, Rafsan and Bhuiyan, Miyad and Shah, Faisal},
+pages = {},
+journal = {Engineering Archive Preprint},
+title = {Ben-Sarc: A Corpus for Sarcasm Detection from Bengali Social Media Comments and Its Baseline Evaluation},
+year = {2022},
+doi = {10.31224/osf.io/7yb4c}
+}
 ```
