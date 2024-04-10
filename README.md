@@ -22,11 +22,12 @@ The `Ben-Sarc` dataset is in `.xlsx` format. One example from the `Ben-Sarc` dat
 |----|------------------------------------------------------------------------------------------------------------|----------|
 ```
 
-`Polarity' of the *Ben-Sarc* is defined as follows:
-
-            `0' indicates *Non-Sarcastic Text* 
+`Polarity` of the `Ben-Sarc` is defined as follows:
+```
+            `0` indicates *Non-Sarcastic Text* 
             
-            `1' indicates *Sarcastic Text*
+            `1` indicates *Sarcastic Text*
+```
 
 ## Authors
 - Sanzana Karim Lora
