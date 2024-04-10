@@ -7,6 +7,7 @@ This repository contains the dataset of the paper titled [**"Ben-Sarc: A Self-An
 - [Ben-Sarc](#ben-sarc)
   - [Dataset Details](#dataset-details)
   - [Authors](#authors)
+  - [License](#license)
   - [Citation](#citation)
 
 ## Dataset Details
@@ -42,6 +43,9 @@ The `Ben-Sarc` dataset is in `.xlsx` format. One example from the `Ben-Sarc` dat
 - Rafsan Rahman
 - Miyad Bhuiyan
 - Faisal Muhammad Shah
+
+## License
+Contents of this repository are restricted to only non-commercial research purposes under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 ## Citation
 If you use our dataset, please cite the following paper:
