@@ -1,6 +1,6 @@
 # Ben-Sarc
 
-This repository contains the dataset of the paper titled [**"Ben-Sarc: A Self-Annotated Corpus for Sarcasm Detection from Bengali Social Media Comments and Its Baseline Evaluation"**]( https://doi.org/10.1017/nlp.2024.11) published in [***Natural Language Processing**(formerly known as Natural Language Engineering)*](https://www.cambridge.org/core/journals/natural-language-engineering) journal by [*Cambridge University Press*](https://www.cambridge.org/). The **Ben-Sarc** is also available at [***HuggingFace***](https://huggingface.co/datasets/sanzanalora/Ben-Sarc).(https://huggingface.co/datasets/sanzanalora/Ben-Sarc).
+This repository contains the dataset of the paper titled [**"Ben-Sarc: A Self-Annotated Corpus for Sarcasm Detection from Bengali Social Media Comments and Its Baseline Evaluation"**]( https://doi.org/10.1017/nlp.2024.11) published in [***Natural Language Processing**(formerly known as Natural Language Engineering)*](https://www.cambridge.org/core/journals/natural-language-engineering) journal by [*Cambridge University Press*](https://www.cambridge.org/). The **Ben-Sarc** is also available at [***HuggingFace***](https://huggingface.co/datasets/sanzanalora/Ben-Sarc)(https://huggingface.co/datasets/sanzanalora/Ben-Sarc).
 
 ## Table of Contents
 
