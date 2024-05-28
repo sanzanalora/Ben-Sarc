@@ -1,6 +1,6 @@
 # Ben-Sarc
 
-This repository contains the dataset of the paper titled [**"Ben-Sarc: A Self-Annotated Corpus for Sarcasm Detection from Bengali Social Media Comments and Its Baseline Evaluation"**](https://engrxiv.org/index.php/engrxiv/preprint/view/2102) accepted in [*Natural Language Engineering*](https://www.cambridge.org/core/journals/natural-language-engineering) journal.
+This repository contains the dataset of the paper titled [**"Ben-Sarc: A Self-Annotated Corpus for Sarcasm Detection from Bengali Social Media Comments and Its Baseline Evaluation"**]( https://doi.org/10.1017/nlp.2024.11) published in [***Natural Language Processing**(formerly known as Natural Language Engineering)*](https://www.cambridge.org/core/journals/natural-language-engineering) journal by [*Cambridge University Press*](https://www.cambridge.org/). The **Ben-Sarc** is also available at [***HuggingFace***](https://huggingface.co/datasets/sanzanalora/Ben-Sarc).(https://huggingface.co/datasets/sanzanalora/Ben-Sarc).
 
 ## Table of Contents
 
@@ -50,12 +50,11 @@ Contents of this repository are restricted to only non-commercial research purpo
 ## Citation
 If you use our dataset, please cite the following paper:
 ```
-@article{loraben,
-author = {Lora, Sanzana and Shahariar, G. and Nazmin, Tamanna and Rahman, Noor and Rahman, Rafsan and Bhuiyan, Miyad and Shah, Faisal},
-pages = {},
-journal = {Engineering Archive Preprint},
-title = {Ben-Sarc: A Corpus for Sarcasm Detection from Bengali Social Media Comments and Its Baseline Evaluation},
-year = {2022},
-doi = {10.31224/osf.io/7yb4c}
-}
+@article{Lora_Shahariar_Nazmin_Rahman_Rahman_Bhuiyan_Shah_2024,
+  title={Ben-Sarc: A self-annotated corpus for sarcasm detection from Bengali social media comments and its baseline evaluation},
+  DOI={10.1017/nlp.2024.11},
+  journal={Natural Language Processing},
+  author={Lora, Sanzana Karim and Shahariar, G. M. and Nazmin, Tamanna and Rahman, Noor Nafeur and Rahman, Rafsan and Bhuiyan, Miyad and Shah, Faisal Muhammad},
+  year={2024},
+  pages={1–26}} 
 ```
